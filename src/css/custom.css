@@ -15,6 +15,8 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+  --dev-dash-bg: url("../../static/icons/moon.svg") no-repeat;
+  --dev-dash-bg: url("../../static/icons/sun.svg") no-repeat;
 }
 
 @font-face {
@@ -255,7 +257,9 @@ header .box2 > img{
   width: 480px;
   height: 393px;
 position: absolute;
+justify-content: center;
 margin: 0 auto;
+align-items: center;
 top: 25%;
 z-index: 0;
 }
@@ -299,7 +303,7 @@ div.textSh3 > p {
 
 footer .grid_footer {
   display: grid;
-  grid-template-columns: 2fr 2fr 2fr 1fr 2fr;
+  grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
   grid-template-rows: 1fr;
   font-family: "Avenir Next" !important;
 
@@ -311,7 +315,7 @@ padding: 25px 32px 3px;
 
 footer .foot1 > img {
   width: 50px;
-  height: 40px;
+  height: 30px;
 display: inline-block;
 }
 
@@ -327,6 +331,17 @@ html[data-theme='light'] footer .foot1 > .ph1  {
   filter: invert(0.9);
 
 }
+
+
+
+[data-theme="dark"] {
+    --dev-dash-bg: url("/icons/moon.svg") no-repeat;
+}
+
+.dev-dash {
+    background: var(--dev-dash-bg);
+}
+
 
 
 footer .foot2 {
@@ -399,11 +414,10 @@ html[data-theme='dark'] footer li {
 
 
 
-.toggleTrack_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-  opacity: 0;
 
-}
 
+
+/*
 html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
 background-image: url(/icons/moon.svg);
 width: 30px;
@@ -418,7 +432,7 @@ width: 28px;
 height: 33px;
 background-size: 28px;
 margin-right: 10px;
-}
+}*/
 
 main .team_block {
 text-align: center;
@@ -623,7 +637,7 @@ right: 50px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
 margin: 0;
-
+margin-top: 50px;
     gap: 60px;
 
 }
@@ -656,9 +670,22 @@ margin: 0;
 
 }
 
-.guide1 > p > b {
+.guide1 > p > h3 {
   font-size: 27px;
 }
+.guide1 > p > h4 {
+  font-size: 24px;
+}
+
+
+.guide1 > .text5 {
+  margin-top: 25px;
+  padding: 0 2rem;
+  font-size: 16px;
+  justify-content: center;
+  text-align: center;
+}
+
 
 .imgSave { align-items: center;
     display: flex;
@@ -760,10 +787,15 @@ font-family: "Avenir Next" !important;
 
     footer .foot5 {
     text-align: left;
-    margin: 30px;
+    margin: 20px;
     padding: 0px;
 
     }
+
+    footer .foot5 > b  {
+      margin-left: 10px;
+    }
+
 
     header .box2 {
       display: none;
@@ -891,7 +923,7 @@ header .imgSet > img {
   height: 3rem;
 }
 
-html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
+/* html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
 background-image: url(/icons/moon.svg);
 width: 30px;
 height: 30px;
@@ -907,7 +939,7 @@ height: 33px;
 background-size: 28px;
 margin-left: 100px;
 display: flex;
-}
+}*/
 
 
   html[data-theme='light'] footer .imgconf > img  {
@@ -924,6 +956,7 @@ html[data-theme='dark'] footer .imgconf > img  {
   height: 30px;
    background-color: #fff;
    border-radius: 10px;
+
 
 
 }
@@ -947,5 +980,15 @@ html[data-theme="light"] img.ergo2  {
 }
 
 html[data-theme='dark']  img.ergo1 {
-display: none;background-image: none;
+display: none;
+background-image: none;
+
+}
+
+.ergo1 .kyber  {
+  margint-top: 50px;
+}
+
+html[data-theme='dark'] .reddit1 {
+  filter: invert(1);
 }

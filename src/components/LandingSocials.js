@@ -8,7 +8,7 @@ const TwitterIcon = ({ style }) => {
 
     return (
         <div style={style} className={styles.twitter}>
-            <Icon style={{ width: 120, height: 120 }}/>
+            <Icon style={{ width: 100, height: 100 }}/>
         </div>
     )
 }
@@ -17,7 +17,7 @@ const Socials = [
   {
     title: 'Twitter',
     link:  'https://twitter.com/anetaBTC',
-    Icon:  TwitterIcon,
+    Icon:  require('../../static/img/twitter.svg').default,
     description: (
       <>
           Latest project status, partnerships, and notifications!
@@ -45,12 +45,12 @@ const Socials = [
     ),
   },
     {
-        title: 'Reddit',
-        link: 'https://www.reddit.com/r/anetaBTC/',
+        title: 'Medium',
+        link: 'https://medium.com/@anetaBTC',
         Icon:  require('../../static/img/reddit.svg').default,
         description: (
             <>
-                Enjoy the subreddit community.
+                Read our Medium articles for in depth updates on our progress.
             </>
         ),
     },
@@ -60,11 +60,12 @@ function Guide({Icon, title, description, link}) {
   return (
     <Link href={link} target="_blank" className={clsx('col col--4', styles.social)}>
       <div className={clsx('text--center', 'padding-horiz--md', styles.wrapper)}>
-       
-        <Icon style={{ width: 120, height: 120, margin: '0 auto' }} />
+
+        <Icon style={{ width: 100, height: 100, margin: '0 auto' }} />
         <p />
-        <h3>{title}</h3>
+        <h2>{title}</h2>
         <p>{description}</p>
+
       </div>
     </Link>
   );

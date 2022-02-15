@@ -26,7 +26,8 @@ export default {
     "navbar": {
       "logo": {
         "alt": "anetaBTC logo",
-        "src": "img/anetaLogo.png"
+        "src": "img/anetaLogoDark.png",
+        "srcDark": "img/anetaLogo.png"
       },
       "hideOnScroll": false,
       "items": []
@@ -35,11 +36,11 @@ export default {
       "defaultMode": "light",
       "disableSwitch": false,
       "switchConfig": {
-        "darkIcon": "🥲",
+        "darkIcon": "🌙",
         "darkIconStyle": {
-          "marginLeft": "2px"
+          "marginLeft": "2"
         },
-        "lightIcon": "🥲",
+        "lightIcon": "☀️",
         "lightIconStyle": {
           "marginLeft": "1px"
         }
