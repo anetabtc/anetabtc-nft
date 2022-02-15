@@ -32,7 +32,7 @@
 }
 
 main .wrapper1 {
-padding: 0 max(1rem, calc(30% - 512px));
+padding: 0 max(1rem, calc(30% - 412px));
 }
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
@@ -311,18 +311,21 @@ footer .grid_footer {
 
 footer .foot1 {
 padding: 25px 32px 3px;
+margin-top: -10px;
 }
 
 footer .foot1 > img {
-  width: 50px;
-  height: 30px;
+  width: 65px;
+  height: 45px;
 display: inline-block;
+margin-left: -13px;
 }
 
 footer .foot1 > .ph1  {
   width: 170px;
+  height: 30px;
   display: inline-block;
-margin-left: -8px;
+margin-left: -12px;
 }
 
 html[data-theme='light'] footer .foot1 > .ph1  {
@@ -778,17 +781,23 @@ nav .toggle_2i4l {
 
     footer .grid_footer {
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 0.8fr 0.8fr 0.8fr 0.6fr;
 
 font-family: "Avenir Next" !important;
     }
+
     footer .foot1 > img{
       width: 70px;
+
+      height: 50px;
+      margin-left: -10px;
       display: inline-block;
     }
 
     footer .foot1 > .ph1{
       width: 200px;
+      margin-left: -12px;
+
       display: inline-block;
     }
 
@@ -797,6 +806,7 @@ font-family: "Avenir Next" !important;
     margin: 0px;
     padding: 0px;
     }
+
     footer .foot3 {
   margin: 0px;
     padding: 0px;
@@ -963,6 +973,12 @@ background-size: 28px;
 margin-left: 100px;
 display: flex;
 }*/
+
+main .guides {
+  margin-top: -20px;
+}
+
+
 main .team_block {
 text-align: center;
 position: relative;
