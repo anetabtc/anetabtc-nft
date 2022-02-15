@@ -44,7 +44,7 @@ export default function Home() {
       <div className="wrapper1">
 
  <div className="textSh1">
-<h1>Decentralized, On Chain BTC</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p>
+<h1>Decentralized, On Chain BTC</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano.</p>
  </div>
           <div className="section1">
         <div className="guides">
@@ -64,13 +64,13 @@ export default function Home() {
           <div className="textSh3"><h1>Our partners</h1><p>Learn more about our partners who are contributing to decentralized finance.</p></div>
        <div className="section1">
         <div className="guides">
-<div className="guide"><a href="https://ergodex.io" class="active"><img src={'/imgphoto/ergodex1.png'} className="ergo1"/>
-<img src={'/imgphoto/ergodex2.png'} className="ergo2"/></a>
+<div className="guide"><a href="https://ergodex.io" class="active"><img src={'/imgphoto/ergodex1.png'} className="ergo1 ergo"/>
+<img src={'/imgphoto/ergodex2.png'} className="ergo2 ergo"/></a>
 </div>
 <div className="guide"><a href="https://kyberswap.com/#/about" class="active"><img src={'/imgphoto/kyberswap3.png'} className="ergo1 kyber"/>
-<img src={'/imgphoto/kyberswap2.png'} className="ergo2"/></a></div>
-<div className="guide"><a href="https://minswap.org/" class="active"><img src={'/imgphoto/minswap1.png'} className="ergo1"/>
-<img src={'/imgphoto/minswap2.png'} className="ergo2"/> </a></div>
+<img src={'/imgphoto/kyberswap2.png'} className="ergo2 kyber"/></a></div>
+<div className="guide"><a href="https://minswap.org/" class="active"><img src={'/imgphoto/minswap1.png'} className="ergo1 minswap"/>
+<img src={'/imgphoto/minswap2.png'} className="ergo2 minswap"/> </a></div>
 
         </div>
           </div>
@@ -92,7 +92,7 @@ export default function Home() {
 <div className="foot2"><ul><b>anetaBTC</b>
 <li><a href="/team" class="active">Team</a></li>
 <li><a href="https://docs.anetabtc.io/" class="active">Docs</a></li>
-<li><a href="/faq" class="active">FAQ</a></li>
+<li><a href="http://discord.gg/anetabtc" class="active">FAQ</a></li>
 <li><a href="https://medium.com/@anetaBTC/neta-tokenomics-55629989de2b" class="active">Tokenomics</a></li>
 </ul></div>
 
