@@ -36,7 +36,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`anetaBTC wallet`}
+    title={`Home`}
       description="Description will go into a meta tag in <head />">
 
           <HomepageHeader />
@@ -87,7 +87,7 @@ export default function Home() {
 
 <div className="grid_footer">
 
-<div className="foot1"><img src={'/imgphoto/rectangle.png'} /><img src={'/imgphoto/Rectangle1.png'} className="ph1" /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value on their Bitcoin on Ergo and Cardano.</div>
+<div className="foot1"><img src={'/imgphoto/rectangle.png'} /><img src={'/imgphoto/Rectangle1.png'} className="ph1" /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value of their Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b>
 <li><a href="/team" class="active">Team</a></li>

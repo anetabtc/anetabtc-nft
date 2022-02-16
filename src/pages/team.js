@@ -25,7 +25,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`anetaBTC wallet`}
+      title={`Team`}
       description="Description will go into a meta tag in <head />">
 
           <HomepageHeader />
@@ -34,7 +34,7 @@ export default function Home() {
 <div className="ank">
       <img src={'/light/angel1.svg'}  width="402px" height="402px" className="ank1"/>
       <img src={'/light/angel2.svg'}  width="400px" height="400px" className="ank2"/></div>
-    
+
           <div className="team_block"><h1><b>Meet our Team.</b></h1>
 <div className="grid_team">
 
@@ -61,7 +61,7 @@ export default function Home() {
 <div className="list_team2"> <img src={'/avatar/nathan.png'} /><br /><br />
 <h3>Nathan Baskin</h3><p ><b>KYC/AML</b></p><p className="font1" >Silicon Valley Bank<br /> Santander Bank</p></div>
 <div className="list_team2"> <img src={'/avatar/georgina.png'} /><br /><br />
-<h3>Georgina Alcala</h3><p ><b>Personal Relations</b></p><p className="font1" >Boston University</p></div>
+<h3>Georgina Alcaraz</h3><p ><b>Business Development</b></p><p className="font1" >Boston University</p></div>
 
 </div>
 
@@ -72,7 +72,7 @@ export default function Home() {
 
 <div className="grid_footer_2">
 
-<div className="foot1"><img src={'/imgphoto/rectangle.png'} /><img src={'/imgphoto/Rectangle1.png'} className="ph1" /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value on their Bitcoin on Ergo and Cardano.</div>
+<div className="foot1"><img src={'/imgphoto/rectangle.png'} /><img src={'/imgphoto/Rectangle1.png'} className="ph1" /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value of their Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b>
 <li><a href="/team" class="active">Team</a></li>
