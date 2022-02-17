@@ -443,20 +443,19 @@ main .team_block {
 text-align: center;
 position: relative;
 margin: 0px auto;
-padding: 90px;
+padding: 5rem 7rem 3rem;
 height: 100%;
-margin-top: -150px;
 }
 
-html[data-theme='light'] main .team_block > h1 {
-  font-size: 50px;
+html[data-theme='light'] main .team_block > h2 {
+  font-size: 40px;
   color: black;
 line-height: 0;
   margin-top: 100px;
 }
 
-html[data-theme='dark'] main .team_block > h1 {
-  font-size: 50px;
+html[data-theme='dark'] main .team_block > h2 {
+  font-size: 40px;
   line-height: 0;
   margin-top: 100px;
   color: white;
@@ -475,7 +474,7 @@ main .grid_team {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr ;
-padding: 0 5rem 3rem;
+padding: 0 3rem 3rem;
 gap: 36px 64px;
 margin-top: 150px;
 
@@ -487,7 +486,7 @@ main .list_team > img {
 }
 
 html[data-theme='light'] main .list_team {
-  width: 233px;
+  width: 1fr;
   height: 1fr;
   padding: 15px;
   flex-direction: column;
@@ -497,7 +496,7 @@ html[data-theme='light'] main .list_team {
 }
 
 html[data-theme='dark'] main .list_team {
-  width: 233px;
+  width: 1fr;
   height: 1fr;
   padding: 15px;
   flex-direction: column;
@@ -507,7 +506,7 @@ html[data-theme='dark'] main .list_team {
 }
 
 html[data-theme='light'] main .list_team2 {
-  width: 233px;
+  width: 1fr;
   height: 1fr;
   padding: 15px;
   flex-direction: column;
@@ -517,7 +516,7 @@ html[data-theme='light'] main .list_team2 {
 }
 
 html[data-theme='dark'] main .list_team2 {
-  width: 233px;
+  width: 230px;
   height: 1fr;
   padding: 15px;
   flex-direction: column;
@@ -540,7 +539,7 @@ footer .grid_footer_2 {
 
 
 html[data-theme='light'] main.team_back {
-  height: 2020px;
+
  background: linear-gradient(to bottom, transparent, #fff),  url(/light/background.png);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
@@ -550,7 +549,7 @@ html[data-theme='light'] main.team_back {
 }
 
 html[data-theme='dark'] main.team_back {
-  height: 2020px;
+
  background: linear-gradient(to bottom, transparent, #162e3f),  url(/team/background2.png);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
@@ -559,9 +558,10 @@ html[data-theme='dark'] main.team_back {
         background-size: cover;
 
 }
+
 main .list_team2 > img {
-  width: 113px;
-  height: 113px;
+  width: 153px;
+  height: 153px;
 }
 main .list_team2 > p {
 font-size: 14px;
@@ -571,8 +571,8 @@ main .grid_team_2 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
   grid-template-rows: 1fr;
-padding: 0 10rem;
-margin-left: 60px;
+padding: 0 12rem 3rem;
+gap: 36px 64px;
 }
 
 
@@ -588,7 +588,7 @@ top: 20px;
 .ank2 {
 position: absolute;
 z-index: 0;
-top: 1650px;
+top: 1550px;
 opacity: 0.656;
 }
 
@@ -878,7 +878,7 @@ grid-template-rows: 1fr ;
 }
 
 html[data-theme='dark'] header .box1 {
-  margin-top: 420px;
+
 }
 
 
@@ -918,22 +918,27 @@ h1.box1 {
   display: none;
 }
 
- footer .grid_footer_2 {
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+footer .grid_footer_2 {
+
+grid-template-columns: 1fr;
+grid-template-rows: 1fr 0.8fr 0.8fr 0.8fr 0.6fr;
 
 font-family: "Avenir Next" !important;
-    }
+}
 
   main .grid_team {
     grid-template-rows: 1fr ;
         grid-template-columns: 1fr;
-
+align-items: center;
+justify-content: center;
 font-family: "Avenir Next" !important;
-        padding:  0px;
+        padding:  20px;
   }
 
   main .grid_team_2 {
+    margin-top: 15px;
+    justify-content: center;
+    gap: 36px 64px;
     grid-template-rows: 1fr ;
         grid-template-columns: 1fr;
 
@@ -941,9 +946,7 @@ font-family: "Avenir Next" !important;
       padding: 0 0;
   }
 
-   .team_back {
-    height: 2500px;
-  }
+
 
 .ank1 {
       display: none;
@@ -1004,36 +1007,43 @@ margin-left: 100px;
 display: flex;
 }*/
 
+html[data-theme='light'] main .list_team2 {
+  width: 300px;
+}
+
+html[data-theme='dark'] main .list_team2 {
+  width: 300px;
+}
 main .guides {
   margin-top: -20px;
 }
 
 
+
 main .team_block {
 text-align: center;
 position: relative;
-margin: 0px auto;
-height: 1fr;
-margin-top: -150px;
+padding: 2rem 3rem 3rem;
 }
 
-html[data-theme='light'] main .team_block > h1 {
-  font-size: 30px;
-  color: black;
-line-height: 0;
+main .list_team {
+  width: 300px;
+
+
 }
 
-html[data-theme='dark'] main .team_block > h1 {
-  font-size: 30px;
-  line-height: 0;
+html[data-theme='light'] main .team_block > h2 {
+  font-size: 36px;
+position: relative;
+
+}
+
+html[data-theme='dark'] main .team_block > h2  {
+  font-size: 36px;
   color: white;
-}
-main .grid_team {
-  grid-template-rows: 1fr ;
-      grid-template-columns: 1fr;
-display: grid;
-font-family: "Avenir Next" !important;
-      padding:  0px;
+  line-height: 0;
+  margin-top: 150px;
+  line-height: 0;
 }
 
 main .grid_team_2 {

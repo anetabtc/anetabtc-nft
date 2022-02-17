@@ -8,18 +8,6 @@ import styles from './index.module.css';
 import LandingSocials from '../components/LandingSocials';
 
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-
-  return (
-
-    <header className={clsx('hero hero--primary ', styles.heroBanner)}>
-
-
-    </header>
-
-  );
-}
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
@@ -28,14 +16,13 @@ export default function Home() {
       title={`Team`}
       description="Description will go into a meta tag in <head />">
 
-          <HomepageHeader />
       <main className="team_back">
-
 <div className="ank">
       <img src={'/light/angel1.svg'}  width="402px" height="402px" className="ank1"/>
       <img src={'/light/angel2.svg'}  width="400px" height="400px" className="ank2"/></div>
 
-          <div className="team_block"><h1><b>Meet our Team.</b></h1>
+          <div className="team_block">
+    <h2><b>Meet our Team.</b></h2>
 <div className="grid_team">
 
 <div className="list_team">
@@ -66,8 +53,9 @@ export default function Home() {
 </div>
 
 </div>
-
+<br /><br /><br />
       </main>
+
 <footer className="foot2">
 
 <div className="grid_footer_2">
