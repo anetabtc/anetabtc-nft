@@ -36,7 +36,7 @@ const Socials = [
   },
   {
     title: 'Discord',
-    link: 'github.com/anetaBTC',
+    link: 'http://discord.gg/anetabtc',
     Icon:  require('../../static/img/discord.svg').default,
     description: (
       <>
