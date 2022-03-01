@@ -203,17 +203,30 @@ div.textSh2 > p {
 
 
 header .grid_label {
+
   display: grid;
-  grid-template-columns: 4fr 1fr;
+  grid-template-columns: 4fr 2fr;
   grid-template-rows: 1fr;
-padding: 0 7rem 3rem;
+padding: 0 10rem 3rem;
 
 }
 
+header .box2 > img{
+  width: 480px;
+  height: 393px;
+  justify-content: center;
+  align-items: center;
 
+  top: 25%;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-top: -100px;
+
+
+}
 html[data-theme='light'] header .box1 > h1 {
 
-font-size: 55px;
+font-size: 57px;
 text-align: left;
    background: -webkit-linear-gradient(45deg, #34708d 66%, #46729b 33%);
   -webkit-background-clip: text;
@@ -225,7 +238,7 @@ text-align: left;
 
 html[data-theme='dark'] header .box1 > h1 {
 
-font-size: 55px;
+font-size: 57px;
 text-align: left;
    background: -webkit-linear-gradient(45deg, #F0A5A4 33%, #9BB3F2 66%);
    background: -webkit-linear(45deg, #F0A5A4 33%, #9BB3F2 66%);
@@ -255,16 +268,10 @@ html[data-theme='light'] header .box1 > p {
 }
 
 
-header .box2 > img{
-  width: 480px;
-  height: 393px;
-position: absolute;
-justify-content: center;
-margin: 0 auto;
-align-items: center;
-top: 25%;
-z-index: 0;
-}
+
+
+
+
 
 
 
@@ -317,10 +324,11 @@ margin-top: -10px;
 }
 
 footer .foot1 > img {
-  width: 65px;
-  height: 45px;
+  width: 60px;
+  height: 40px;
 display: inline-block;
 margin-left: -13px;
+padding-bottom: 2px;
 }
 
 footer .foot1 > .ph1  {
@@ -960,12 +968,14 @@ font-family: "Avenir Next" !important;
     }
 
 header .imgSet   {
-  padding-left: 50px;
+  padding-top: 15px;
+  padding-left: 33px;
 }
 header .imgSet > img {
 
   width: 3rem;
   height: 3rem;
+  margin-left: 15px;
 }
 
 html[data-theme='light'] header.kek1  {
@@ -1036,6 +1046,7 @@ html[data-theme='light'] main .team_block > h2 {
   font-size: 36px;
 position: relative;
 
+margin-top: 150px;
 }
 
 html[data-theme='dark'] main .team_block > h2  {
@@ -1127,5 +1138,55 @@ main p.font1 {
 
 .list_team2 > p > b {
   font-size: 13px;
+
+}
+
+
+@media (min-width: 1880px) {
+  header .grid_label {
+
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    grid-template-rows: 1fr;
+    padding: 0 20rem 1rem;
+  }
+  html[data-theme='dark'] header .box1 > h1 {
+    line-height: 80px;
+    font-size: 72px;
+  }
+  html[data-theme='light'] header .box1 > h1 {
+    line-height: 80px;
+    font-size: 72px;
+  }
+  header .box2 > img{
+    margin-left: 100px;
+    width: 35rem;
+
+  }
+
+  html[data-theme='dark'] header .box1 > p {
+
+    font-size: 35px;
+
+
+
+  }
+  html[data-theme='light'] header .box1 > p {
+
+    font-size: 35px;
+
+
+
+  }
+
+html[data-theme='dark'] main .list_team2 {
+  width: 80%;
+  margin-left: 30px;
+}
+
+html[data-theme='light'] main .list_team2 {
+  width: 80%;
+  margin-left: 30px;
+}
 
 }
