@@ -65,6 +65,7 @@ export default function Home() {
 <div className="foot2"><ul><b>anetaBTC</b>
 <li><a href="/team" class="active" target="_blank">Team</a></li>
 <li><a href="https://docs.anetabtc.io/" class="active" target="_blank">Docs</a></li>
+<li><a href="https://medium.com/@anetaBTC" class="active" target="_blank">News & Updates</a></li>
 <li><a href="http://discord.gg/anetabtc" class="active" target="_blank">FAQ</a></li>
 <li><a href="https://medium.com/@anetaBTC/neta-tokenomics-55629989de2b" class="active" target="_blank">Tokenomics</a></li>
 </ul></div>
@@ -73,8 +74,8 @@ export default function Home() {
 <li><a href="https://drive.google.com/drive/folders/13IGRgf9wNCPfckTQ6DSMaIo9gE-wx0zm?usp=sharing" class="active" target="_blank">Media Kit</a></li>
 <li><a href="https://medium.com/@anetaBTC/anetabtc-litepaper-v1-0-171f29b3276a" class="active" target="_blank">Litepaper</a></li>
 
-<li><a href="https://medium.com/@anetaBTC" class="active" target="_blank">News & Updates</a></li>
 
+<li><a href="https://medium.com/@anetaBTC/roadmap-2-0-b2fe0c47eec6" class="active" target="_blank">Roadmap</a></li>
 <li><a href="https://datastudio.google.com/u/0/reporting/4cb333f9-39bf-448b-8d2d-f7ac3f44ad5d/page/FyZjC"  target="_blank" class="active">Stats</a></li>
 </ul></div>
 
