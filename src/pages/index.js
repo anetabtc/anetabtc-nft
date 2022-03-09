@@ -52,10 +52,10 @@ export default function Home() {
 <img src={'/img/f1.svg'} className="ergo1"/> <img src={'/img/f1.svg'} className="ergo2" /> </div><p><h4>Wrap Bitcoin on Ergo and Cardano</h4></p><div className="text5">Guaranteed and verifiable through transparent and accessible smart contracts.</div>
  </div>
 <div className="guide1"><div  className="imgSave">
-<img src={'/img/f2.svg'} /></div><p><h3>Security and Privacy</h3></p><p /><div className="text5">Leverage built-in privacy and security tools of the most decentralized blockchains.</div>
+<img src={'/img/f3.svg'} /></div><p><h3>Security and Privacy</h3></p><p /><div className="text5">Leverage built-in privacy and security tools of the most decentralized blockchains.</div>
  </div>
 <div className="guide1"> <div  className="imgSave">
-<img src={'/img/f3.svg'} /></div><p><h3>Research-driven</h3></p><p /><div className="text5">A meticulous approach, ensuring correctness with constant oversight and testing.</div>
+<img src={'/img/f2.svg'} /></div><p><h3>Research-driven</h3></p><p /><div className="text5">A meticulous approach, ensuring correctness with constant oversight and testing.</div>
 </div>
         </div>
           </div>
