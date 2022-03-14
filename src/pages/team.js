@@ -77,6 +77,7 @@ export default function Home() {
 
 <li><a href="https://medium.com/@anetaBTC/roadmap-2-0-b2fe0c47eec6" class="active" target="_blank">Roadmap</a></li>
 <li><a href="https://datastudio.google.com/u/0/reporting/4cb333f9-39bf-448b-8d2d-f7ac3f44ad5d/page/FyZjC"  target="_blank" class="active">Stats</a></li>
+<li><a href="https://linktr.ee/anetaBTC" class="active" target="_blank">Linktree</a></li>
 </ul></div>
 
 <div className="foot4"><ul> <b>Foundation</b>
