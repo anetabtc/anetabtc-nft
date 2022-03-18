@@ -537,6 +537,11 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/helper",
+        "source": "@site/src/pages/helper.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
@@ -544,6 +549,11 @@
         "type": "mdx",
         "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/nft",
+        "source": "@site/src/pages/nft.js"
       },
       {
         "type": "jsx",

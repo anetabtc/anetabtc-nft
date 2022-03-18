@@ -121,13 +121,21 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
+  "/helper-1e3": {
+    "component": "component---site-src-pages-helper-js-069-02a",
+    "config": "config---nft-5-e-9-a59"
+  },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
+  "/nft-992": {
+    "component": "component---site-src-pages-nft-js-542-b24",
+    "config": "config---nft-5-e-9-a59"
+  },
   "/team-c1d": {
     "component": "component---site-src-pages-team-js-859-9b3",
-    "config": "config---team-5-e-9-3a3"
+    "config": "config---nft-5-e-9-a59"
   },
   "/docs-87d": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -171,6 +179,6 @@
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---team-5-e-9-3a3"
+    "config": "config---nft-5-e-9-a59"
   }
 }

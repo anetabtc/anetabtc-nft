@@ -94,8 +94,18 @@ export default [
     exact: true
   },
   {
+    path: '/helper',
+    component: ComponentCreator('/helper','1e3'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page','be1'),
+    exact: true
+  },
+  {
+    path: '/nft',
+    component: ComponentCreator('/nft','992'),
     exact: true
   },
   {

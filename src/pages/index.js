@@ -94,7 +94,7 @@ export default function Home() {
 <li><a href="https://docs.anetabtc.io/" class="active" target="_blank">Docs</a></li>
 
 <li><a href="https://medium.com/@anetaBTC" class="active" target="_blank">News & Updates</a></li>
-<li><a href="http://discord.gg/anetabtc" class="active" target="_blank">FAQ</a></li>
+<li><a href="https://docs.anetabtc.io/docs/user-guides/Liso/liso-faq" class="active" target="_blank">FAQ</a></li>
 <li><a href="https://medium.com/@anetaBTC/neta-tokenomics-55629989de2b" class="active" target="_blank">Tokenomics</a></li>
 </ul></div>
 
