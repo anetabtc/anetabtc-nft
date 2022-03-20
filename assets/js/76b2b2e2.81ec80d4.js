@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanetabtc_docs=self.webpackChunkanetabtc_docs||[]).push([[450],{702:function(t){t.exports=JSON.parse('{"allTagsPath":"/anetabtc-nft/blog/tags","slug":"/anetabtc-nft/blog/tags/hello","name":"hello","count":2,"permalink":"/anetabtc-nft/blog/tags/hello"}')}}]);
