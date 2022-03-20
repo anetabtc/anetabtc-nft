@@ -121,10 +121,6 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/helper-1e3": {
-    "component": "component---site-src-pages-helper-js-069-02a",
-    "config": "config---helper-5-e-9-da0"
-  },
   "/docs-380": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
@@ -167,6 +163,6 @@
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---helper-5-e-9-da0"
+    "config": "config---5-e-9-4f3"
   }
 }

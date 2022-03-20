@@ -94,11 +94,6 @@ export default [
     exact: true
   },
   {
-    path: '/helper',
-    component: ComponentCreator('/helper','1e3'),
-    exact: true
-  },
-  {
     path: '/docs',
     component: ComponentCreator('/docs','380'),
     routes: [

@@ -12,8 +12,8 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "contentPath": "/Users/darkhanbaibulat/Desktop/master's degree/anetabtc-nft/docs",
-          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/master's degree/anetabtc-nft/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPath": "/Users/darkhanbaibulat/Desktop/anetabtc-nft/docs",
+          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/anetabtc-nft/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
@@ -523,11 +523,6 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
-      {
-        "type": "jsx",
-        "permalink": "/helper",
-        "source": "@site/src/pages/helper.js"
-      },
       {
         "type": "jsx",
         "permalink": "/",
