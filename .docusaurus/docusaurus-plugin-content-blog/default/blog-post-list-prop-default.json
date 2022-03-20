@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "permalink": "/anetabtc-nft/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post"
+      "permalink": "/anetabtc-nft/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post"
+      "permalink": "/anetabtc-nft/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post"
+      "permalink": "/anetabtc-nft/blog/first-blog-post"
     }
   ]
 }

@@ -4,158 +4,158 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    path: '/anetabtc-nft/__docusaurus/debug',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug','ede'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    path: '/anetabtc-nft/__docusaurus/debug/config',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug/config','65a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    path: '/anetabtc-nft/__docusaurus/debug/content',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug/content','38a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    path: '/anetabtc-nft/__docusaurus/debug/globalData',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug/globalData','b5d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    path: '/anetabtc-nft/__docusaurus/debug/metadata',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug/metadata','ed0'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    path: '/anetabtc-nft/__docusaurus/debug/registry',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug/registry','54d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    path: '/anetabtc-nft/__docusaurus/debug/routes',
+    component: ComponentCreator('/anetabtc-nft/__docusaurus/debug/routes','909'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','520'),
+    path: '/anetabtc-nft/blog',
+    component: ComponentCreator('/anetabtc-nft/blog','1e7'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive','f4c'),
+    path: '/anetabtc-nft/blog/archive',
+    component: ComponentCreator('/anetabtc-nft/blog/archive','95e'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post','6c7'),
+    path: '/anetabtc-nft/blog/first-blog-post',
+    component: ComponentCreator('/anetabtc-nft/blog/first-blog-post','492'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','f06'),
+    path: '/anetabtc-nft/blog/long-blog-post',
+    component: ComponentCreator('/anetabtc-nft/blog/long-blog-post','01c'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','bee'),
+    path: '/anetabtc-nft/blog/mdx-blog-post',
+    component: ComponentCreator('/anetabtc-nft/blog/mdx-blog-post','7ee'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
+    path: '/anetabtc-nft/blog/tags',
+    component: ComponentCreator('/anetabtc-nft/blog/tags','494'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','ddf'),
+    path: '/anetabtc-nft/blog/tags/docusaurus',
+    component: ComponentCreator('/anetabtc-nft/blog/tags/docusaurus','1a9'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','ede'),
+    path: '/anetabtc-nft/blog/tags/facebook',
+    component: ComponentCreator('/anetabtc-nft/blog/tags/facebook','8bd'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','4c2'),
+    path: '/anetabtc-nft/blog/tags/hello',
+    component: ComponentCreator('/anetabtc-nft/blog/tags/hello','a4e'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','752'),
+    path: '/anetabtc-nft/blog/tags/hola',
+    component: ComponentCreator('/anetabtc-nft/blog/tags/hola','3eb'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome','bfa'),
+    path: '/anetabtc-nft/blog/welcome',
+    component: ComponentCreator('/anetabtc-nft/blog/welcome','d64'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs','380'),
+    path: '/anetabtc-nft/docs',
+    component: ComponentCreator('/anetabtc-nft/docs','915'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','5ba'),
+        path: '/anetabtc-nft/docs/intro',
+        component: ComponentCreator('/anetabtc-nft/docs/intro','d03'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','f00'),
+        path: '/anetabtc-nft/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-basics/congratulations','e1d'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','859'),
+        path: '/anetabtc-nft/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-basics/create-a-blog-post','d02'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','35e'),
+        path: '/anetabtc-nft/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-basics/create-a-document','9e6'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','2c8'),
+        path: '/anetabtc-nft/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-basics/create-a-page','aeb'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','732'),
+        path: '/anetabtc-nft/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-basics/deploy-your-site','931'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','072'),
+        path: '/anetabtc-nft/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-basics/markdown-features','486'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','048'),
+        path: '/anetabtc-nft/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-extras/manage-docs-versions','7e7'),
         exact: true,
         'sidebar': "defaultSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','a66'),
+        path: '/anetabtc-nft/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/anetabtc-nft/docs/tutorial-extras/translate-your-site','212'),
         exact: true,
         'sidebar': "defaultSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/','deb'),
+    path: '/anetabtc-nft/',
+    component: ComponentCreator('/anetabtc-nft/','dd0'),
     exact: true
   },
   {

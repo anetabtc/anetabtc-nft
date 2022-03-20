@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docs",
-          "tagsPath": "/docs/tags",
+          "versionPath": "/anetabtc-nft/docs",
+          "tagsPath": "/anetabtc-nft/docs/tags",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -23,7 +23,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/anetabtc-nft/docs/intro",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -33,7 +33,7 @@
               "sidebar": "defaultSidebar",
               "next": {
                 "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-page"
               }
             },
             {
@@ -44,7 +44,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "permalink": "/anetabtc-nft/docs/tutorial-basics/congratulations",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -54,11 +54,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/anetabtc-nft/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -69,7 +69,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -79,11 +79,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -94,7 +94,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-document",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -104,11 +104,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -119,7 +119,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-page",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -129,11 +129,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
+                "permalink": "/anetabtc-nft/docs/intro"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -144,7 +144,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/anetabtc-nft/docs/tutorial-basics/deploy-your-site",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -154,11 +154,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -169,7 +169,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/anetabtc-nft/docs/tutorial-basics/markdown-features",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -179,11 +179,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -194,7 +194,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/anetabtc-nft/docs/tutorial-extras/manage-docs-versions",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -204,11 +204,11 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "permalink": "/anetabtc-nft/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "permalink": "/anetabtc-nft/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -219,7 +219,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/anetabtc-nft/docs/tutorial-extras/translate-your-site",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -229,7 +229,7 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/anetabtc-nft/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ],
@@ -302,7 +302,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/anetabtc-nft/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -311,15 +311,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/anetabtc-nft/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/anetabtc-nft/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/anetabtc-nft/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -342,7 +342,7 @@
             ],
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/anetabtc-nft/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -350,7 +350,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/anetabtc-nft/blog/mdx-blog-post",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -359,7 +359,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/anetabtc-nft/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -375,11 +375,11 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/anetabtc-nft/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/anetabtc-nft/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -387,7 +387,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/anetabtc-nft/blog/long-blog-post",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -396,11 +396,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/anetabtc-nft/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/anetabtc-nft/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -416,11 +416,11 @@
             ],
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/anetabtc-nft/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/anetabtc-nft/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -428,7 +428,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/anetabtc-nft/blog/first-blog-post",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -437,11 +437,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/anetabtc-nft/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/anetabtc-nft/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -457,7 +457,7 @@
             ],
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/anetabtc-nft/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -466,7 +466,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/anetabtc-nft/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -485,22 +485,22 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/anetabtc-nft/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook"
+          "permalink": "/anetabtc-nft/blog/tags/facebook"
         },
-        "/blog/tags/hello": {
+        "/anetabtc-nft/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello"
+          "permalink": "/anetabtc-nft/blog/tags/hello"
         },
-        "/blog/tags/docusaurus": {
+        "/anetabtc-nft/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -508,24 +508,24 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus"
+          "permalink": "/anetabtc-nft/blog/tags/docusaurus"
         },
-        "/blog/tags/hola": {
+        "/anetabtc-nft/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola"
+          "permalink": "/anetabtc-nft/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/anetabtc-nft/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/anetabtc-nft/",
         "source": "@site/src/pages/index.js"
       }
     ]

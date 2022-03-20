@@ -80,8 +80,13 @@ margin-left: -20px;
     height: 250px;
 }
 
+.label1 > h2 {
+  color: black;
+}
+
 .label_2 {
   font-size: 13px;
+  color: black;
 }
 
 
@@ -121,6 +126,7 @@ padding: 0 max(0rem, calc(50% - 512px));
   text-align: center;
   margin-left: -20px;
   padding: 30px;
+  color: black;
 }
 
 .fx {
@@ -130,6 +136,7 @@ padding: 0 max(0rem, calc(50% - 512px));
 .background_footer > h2 {
   text-align: center;
   padding-top: 50px;
+  color: black;
 }
 
 

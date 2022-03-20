@@ -29,7 +29,7 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 
 
    <div className="background_main">
-   <p /> <p /><br /> <h2><b>Gallery</b></h2><p /> <p /><br />
+   <br /> <h2><b>Gallery</b></h2><p /> <p /><br />
 <div className="block_challenge">
 <div className="list1"> <img src={'nft/1.png'} /></div>
 
@@ -47,7 +47,7 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 
 <div className="background_footer">
 
-<p /><br />  <h2><b>Our Team</b></h2><p /> <p /><br />
+<br />  <h2><b>Our Team</b></h2><p /> <p /><br />
 <div className="block_challenge1">
 <div className="list1"> <img src={'nft/part1.png'} /></div>
 

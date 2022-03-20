@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/markdown-features.mdx",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/markdown-features",
-  "permalink": "/docs/tutorial-basics/markdown-features",
+  "permalink": "/anetabtc-nft/docs/tutorial-basics/markdown-features",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Create a Blog Post",
-    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+    "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post"
   },
   "next": {
     "title": "Deploy your site",
-    "permalink": "/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/anetabtc-nft/docs/tutorial-basics/deploy-your-site"
   }
 }
