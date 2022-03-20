@@ -1,0 +1,274 @@
+main > h2{
+  font-family: 'AvenirNextLTPro-Regular';
+}
+
+.background_header {
+background: url(/nft/background1.png);
+  height: 820px;
+  background-repeat: no-repeat;
+ -webkit-background-size: cover;
+         -moz-background-size: cover;
+         -o-background-size: cover;
+         background-size: cover;
+}
+
+
+.background_footer {
+background: url(/nft/background2.png);
+  height: 680px;
+  background-repeat: no-repeat;
+ -webkit-background-size: cover;
+         -moz-background-size: cover;
+         -o-background-size: cover;
+         background-size: cover;
+}
+.background_main {
+background: #fff;
+  height: 800px;
+  background-repeat: no-repeat;
+ -webkit-background-size: cover;
+         -moz-background-size: cover;
+         -o-background-size: cover;
+         background-size: cover;
+}
+
+.wrapper {
+  justify-content: center;
+align-items: center;
+
+ height: 780px;
+ display: grid;
+ grid-gap: 15px;
+ grid-template-columns: repeat(2, 280px);
+ grid-template-rows: repeat(2,300px);
+ align-content: center;
+margin: 0 auto;
+}
+
+.box {
+
+}
+
+.logo_block {
+  grid-column: 1 / 3;
+  width: 480px;
+  height: 480px;
+  margin-left: 20px;
+  margin-top: 80px;
+  justify-content: center;
+align-items: center;
+}
+
+.angel_block {
+grid-column: 1/2;
+grid-row: 2/3;
+width: 320px;
+margin-top: 53px;
+height: 260px;
+margin-left: -60px;
+}
+
+.label1 {
+  grid-column: 2/2;
+  grid-row: 2/3;
+  background-color: #fff;
+  border-radius: 9px;
+    width: 450px;
+    padding: 25px;
+    margin-top: 200px;
+margin-left: -20px;
+    height: 250px;
+}
+
+.label_2 {
+  font-size: 13px;
+}
+
+
+.block_challenge {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  grid-template-rows: 1fr 1fr ;
+gap: 32px;
+padding: 0 max(0rem, calc(50% - 480px));
+}
+
+.block_challenge > div {
+  width: 280px;
+  height: 280px;
+}
+
+.block_challenge1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  grid-template-rows: 1fr;
+padding: 0 max(0rem, calc(50% - 512px));
+}
+
+.block_challenge1 > div {
+  width: 330px;
+  height: 250px;
+}
+
+
+.list1 {
+    flex-direction: column;
+    border-radius: 15px;
+    color: black;
+}
+
+.background_main > h2 {
+  text-align: center;
+  margin-left: -20px;
+  padding: 30px;
+}
+
+.fx {
+  margin-top: -10px;
+}
+
+.background_footer > h2 {
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+
+@media (max-width: 668px) {
+
+
+  .background_header {
+  background: linear-gradient(to bottom, transparent 80%, #fff ), url(/nft/background1.png);
+    height: 1550px;
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+           -moz-background-size: cover;
+           -o-background-size: cover;
+           background-size: cover;
+  }
+
+
+  .background_footer {
+  background: url(/nft/background2.png);
+    height: 1350px;
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+           -moz-background-size: cover;
+           -o-background-size: cover;
+           background-size: cover;
+  }
+  .background_main {
+  background: #fff;
+    height: 800px;
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+           -moz-background-size: cover;
+           -o-background-size: cover;
+           background-size: cover;
+  }
+
+  .block_challenge {
+    display: grid;
+    grid-template-columns: 1fr 1fr  ;
+    grid-template-rows: 1fr 1fr ;
+column-gap:0px;
+gap: 0px;
+margin-top: 30px;
+   row-gap: 10px;
+
+
+  }
+
+  .block_challenge > div {
+    width: 10.8rem;
+    height: 11rem;
+margin: 0 auto;
+
+  }
+
+  .block_challenge1 {
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+row-gap: 140px;
+  }
+
+  .block_challenge1 > div {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+  }
+
+  .wrapper {
+    justify-content: center;
+  align-items: center;
+margin-top: 300px;
+display: block;
+margin: 0 auto;
+   height: 1480px;
+   display: grid;
+   grid-gap: 15px;
+   grid-template-columns: 1fr;
+   grid-template-rows: 1fr;
+   align-content: center;
+
+  }
+
+  .logo_block {
+    grid-column: 1/1;
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+display: block;
+margin: 0 auto;
+margin-top: 50px;
+
+  }
+
+  .angel_block {
+
+  grid-column: 1/1;
+  grid-row: 2;
+  width: 220px;
+  height: 350px;
+  margin-left: 400px;
+  margin-top: 150px;
+  margin:0 auto;
+  display: block;
+  }
+
+  .label1 {
+    grid-column: 1/1;
+    grid-row: 3;
+    background-color: #fff;
+    border-radius: 9px;
+      width:310px;
+margin-left: 20px;
+display: block;
+margin: 0 auto;
+height: 390px;
+margin-top: -110px;
+  padding: 28px;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .label_2 {
+    font-size: 14px;
+  }
+
+  .label1 > h2{
+    font-size: 18px;
+  }
+
+  .background_main > p {
+
+  }
+}
+
+A {
+  text-decoration: none;
+color: black;
+}
