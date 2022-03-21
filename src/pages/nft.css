@@ -112,7 +112,7 @@ padding: 0 max(0rem, calc(50% - 512px));
 
 .block_challenge1 > div {
   width: 330px;
-  height: 250px;
+  height: 300px;
 }
 
 
@@ -145,7 +145,10 @@ padding: 0 max(0rem, calc(50% - 512px));
 
 
   .background_header {
-  background: linear-gradient(to bottom, transparent 80%, #fff ), url(/nft/background1.png);
+
+
+background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 255)), url(/nft/background1.png);
+
     height: 1550px;
     background-repeat: no-repeat;
    -webkit-background-size: cover;
@@ -157,7 +160,7 @@ padding: 0 max(0rem, calc(50% - 512px));
 
   .background_footer {
   background: url(/nft/background2.png);
-    height: 1350px;
+    height: 1400px;
     background-repeat: no-repeat;
    -webkit-background-size: cover;
            -moz-background-size: cover;
@@ -189,7 +192,7 @@ margin-top: 30px;
   .block_challenge > div {
     width: 10.8rem;
     height: 11rem;
-margin: 0 auto;
+margin: 0 auto;padding: 0 auto;
 
   }
 
@@ -204,7 +207,7 @@ row-gap: 140px;
     width: 250px;
     display: block;
     margin: 0 auto;
-    height: 250px;
+    height: 270px;
   }
 
   .wrapper {

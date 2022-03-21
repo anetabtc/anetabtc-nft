@@ -9,6 +9,7 @@ function nft() {
    <header>
 <div className="background_header">
 <div className="wrapper">
+
     <div className="box logo_block">
 <img src={'nft/logo.png'} />
     </div>
@@ -49,11 +50,11 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 
 <br />  <h2><b>Our Team</b></h2><p /> <p /><br />
 <div className="block_challenge1">
-<div className="list1"> <img src={'nft/part1.png'} /></div>
+<div className="list1"> <a href="https://twitter.com/anetaBTC" class="active" target="_blank"><img src={'nft/part1.png'} /></a></div>
 
-<div className="list1"> <img src={'nft/part2.png'} /></div>
+<div className="list1"> <a href="https://twitter.com/Cypherkicks" class="active" target="_blank"> <img src={'nft/part2.png'} /></a></div>
 
-<div className="list1 fx"> <img src={'nft/part3.png'} /></div>
+<div className="list1 fx">  <a href="https://twitter.com/nftmakerio" class="active" target="_blank"><img src={'nft/part3.png'} /></a></div>
 
 
 </div>
