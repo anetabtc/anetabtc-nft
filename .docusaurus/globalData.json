@@ -1,58 +1,58 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/anetabtc-nft/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/anetabtc-nft/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/anetabtc-nft/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/anetabtc-nft/docs/tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/anetabtc-nft/docs/tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/anetabtc-nft/docs/tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/anetabtc-nft/docs/tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/anetabtc-nft/docs/tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/anetabtc-nft/docs/tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/anetabtc-nft/docs/tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
               "sidebar": "defaultSidebar"
             }
           ]

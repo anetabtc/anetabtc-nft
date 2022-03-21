@@ -1,8 +1,8 @@
 export default {
   "title": "Aneta Angels",
   "tagline": "Wrapped BTC on Ergo & Cardano",
-  "url": "https://anetabtc.github.io",
-  "baseUrl": "/anetabtc-nft/",
+  "url": "https://nft.anetabtc.io",
+  "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",

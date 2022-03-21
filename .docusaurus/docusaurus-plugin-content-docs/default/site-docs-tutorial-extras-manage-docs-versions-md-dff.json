@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/anetabtc-nft/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/docs/tutorial-extras/manage-docs-versions",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/anetabtc-nft/docs/tutorial-basics/congratulations"
+    "permalink": "/docs/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/anetabtc-nft/docs/tutorial-extras/translate-your-site"
+    "permalink": "/docs/tutorial-extras/translate-your-site"
   }
 }

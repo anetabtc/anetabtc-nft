@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
-  "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post",
+  "permalink": "/docs/tutorial-basics/create-a-blog-post",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/anetabtc-nft/docs/tutorial-basics/create-a-document"
+    "permalink": "/docs/tutorial-basics/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/anetabtc-nft/docs/tutorial-basics/markdown-features"
+    "permalink": "/docs/tutorial-basics/markdown-features"
   }
 }

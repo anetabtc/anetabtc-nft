@@ -1,168 +1,168 @@
 {
-  "/anetabtc-nft/__docusaurus/debug-ede": {
+  "/__docusaurus/debug-3d6": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/anetabtc-nft/__docusaurus/debug/config-65a": {
+  "/__docusaurus/debug/config-914": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/anetabtc-nft/__docusaurus/debug/content-38a": {
+  "/__docusaurus/debug/content-c28": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---anetabtc-nft-docusaurus-debug-content-246-02b"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/anetabtc-nft/__docusaurus/debug/globalData-b5d": {
+  "/__docusaurus/debug/globalData-3cf": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/anetabtc-nft/__docusaurus/debug/metadata-ed0": {
+  "/__docusaurus/debug/metadata-31b": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/anetabtc-nft/__docusaurus/debug/registry-54d": {
+  "/__docusaurus/debug/registry-0da": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/anetabtc-nft/__docusaurus/debug/routes-909": {
+  "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/anetabtc-nft/blog-1e7": {
+  "/blog-520": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---anetabtc-nft-blog-766-31e"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---anetabtc-nft-blogf-4-f-1bc"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---anetabtc-nft-blog-871-bb4"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---anetabtc-nft-blog-925-cbb"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---anetabtc-nft-blog-95-d-b33"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/anetabtc-nft/blog/archive-95e": {
+  "/blog/archive-f4c": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---anetabtc-nft-blog-archivea-0-d-055"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/anetabtc-nft/blog/first-blog-post-492": {
+  "/blog/first-blog-post-6c7": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
-    "content": "content---anetabtc-nft-blog-first-blog-poste-27-d84"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/anetabtc-nft/blog/long-blog-post-01c": {
+  "/blog/long-blog-post-f06": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
-    "content": "content---anetabtc-nft-blog-long-blog-post-736-8b5"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/anetabtc-nft/blog/mdx-blog-post-7ee": {
+  "/blog/mdx-blog-post-bee": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
-    "content": "content---anetabtc-nft-blog-mdx-blog-post-593-4b8"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/anetabtc-nft/blog/tags-494": {
+  "/blog/tags-e13": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
-    "tags": "tags---anetabtc-nft-blog-tagsb-11-3b4"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
-  "/anetabtc-nft/blog/tags/docusaurus-1a9": {
+  "/blog/tags/docusaurus-ddf": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---anetabtc-nft-blog-766-31e"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---anetabtc-nft-blogf-4-f-1bc"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---anetabtc-nft-blog-871-bb4"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---anetabtc-nft-blog-925-cbb"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---anetabtc-nft-blog-tags-docusaurus-1-c-7-a84"
+    "metadata": "metadata---blog-tags-docusaurusa-80-728"
   },
-  "/anetabtc-nft/blog/tags/facebook-8bd": {
+  "/blog/tags/facebook-ede": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---anetabtc-nft-blog-766-31e"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "metadata": "metadata---anetabtc-nft-blog-tags-facebook-081-b2f"
+    "metadata": "metadata---blog-tags-facebook-031-c52"
   },
-  "/anetabtc-nft/blog/tags/hello-a4e": {
+  "/blog/tags/hello-4c2": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---anetabtc-nft-blog-766-31e"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---anetabtc-nft-blog-871-bb4"
+        "content": "content---blog-871-381"
       }
     ],
-    "metadata": "metadata---anetabtc-nft-blog-tags-hello-76-b-f89"
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
   },
-  "/anetabtc-nft/blog/tags/hola-3eb": {
+  "/blog/tags/hola-752": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---anetabtc-nft-blog-925-cbb"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---anetabtc-nft-blog-tags-holae-38-20c"
+    "metadata": "metadata---blog-tags-holae-16-18a"
   },
-  "/anetabtc-nft/blog/welcome-d64": {
+  "/blog/welcome-bfa": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---anetabtc-nft-blog-814-6f1",
-    "content": "content---anetabtc-nft-blog-welcomed-9-f-86f"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/anetabtc-nft/docs-915": {
+  "/docs-380": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---anetabtc-nft-docs-935-0c8"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/anetabtc-nft/docs/intro-d03": {
+  "/docs/intro-5ba": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-intro-0-e-3-38e"
+    "content": "content---docs-intro-0-e-3-be1"
   },
-  "/anetabtc-nft/docs/tutorial-basics/congratulations-e1d": {
+  "/docs/tutorial-basics/congratulations-f00": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-basics-congratulations-822-312"
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/anetabtc-nft/docs/tutorial-basics/create-a-blog-post-d02": {
+  "/docs/tutorial-basics/create-a-blog-post-859": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-basics-create-a-blog-post-533-d41"
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/anetabtc-nft/docs/tutorial-basics/create-a-document-9e6": {
+  "/docs/tutorial-basics/create-a-document-35e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-basics-create-a-document-1-e-4-3a7"
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/anetabtc-nft/docs/tutorial-basics/create-a-page-aeb": {
+  "/docs/tutorial-basics/create-a-page-2c8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-basics-create-a-page-5-c-8-68e"
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/anetabtc-nft/docs/tutorial-basics/deploy-your-site-931": {
+  "/docs/tutorial-basics/deploy-your-site-732": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-basics-deploy-your-sitef-55-ae1"
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/anetabtc-nft/docs/tutorial-basics/markdown-features-486": {
+  "/docs/tutorial-basics/markdown-features-072": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-basics-markdown-features-18-c-b8d"
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/anetabtc-nft/docs/tutorial-extras/manage-docs-versions-7e7": {
+  "/docs/tutorial-extras/manage-docs-versions-048": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-extras-manage-docs-versionsdff-fbf"
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/anetabtc-nft/docs/tutorial-extras/translate-your-site-212": {
+  "/docs/tutorial-extras/translate-your-site-a66": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---anetabtc-nft-docs-tutorial-extras-translate-your-sitee-44-129"
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
-  "/anetabtc-nft/-dd0": {
+  "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---anetabtc-nft-5-e-9-9af"
+    "config": "config---5-e-9-4f3"
   }
 }
