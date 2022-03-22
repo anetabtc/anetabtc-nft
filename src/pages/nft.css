@@ -75,9 +75,9 @@ margin-left: -60px;
   border-radius: 9px;
     width: 450px;
     padding: 25px;
-    margin-top: 200px;
+    margin-top: 170px;
 margin-left: -20px;
-    height: 250px;
+    height: 285px;
 }
 
 .label1 > h2 {
@@ -85,7 +85,7 @@ margin-left: -20px;
 }
 
 .label_2 {
-  font-size: 13px;
+  font-size: 15px;
   color: black;
 }
 
@@ -233,7 +233,7 @@ margin: 0 auto;
     justify-content: center;
 display: block;
 margin: 0 auto;
-margin-top: 50px;
+margin-top: 0px;
 
   }
 

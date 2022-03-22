@@ -19,7 +19,7 @@ function nft() {
     <div className="box label1">
 <h2>What is Aneta Angels? </h2>
 <div className="label_2">
-Aneta Angels is a Cardano and Ergo based NFT project focused on providing utility while paying homeage to the various peoples, cultures, and passions that make up the anetaBTC community!
+Aneta Angels is a Cardano and Ergo based NFT project focused on providing utility while paying homage to the various peoples, cultures, and passions that make up the anetaBTC community!
 <p />Holders of Aneta Angel NFTs will enjoy a 10% bonus on all cNETA rewards from NETA1 and NETA2 stake pools.
  To learn more, check out our <b><u><a href="https://medium.com/@anetaBTC">medium</a></u></b>.
 </div>
