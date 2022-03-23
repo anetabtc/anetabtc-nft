@@ -73,11 +73,11 @@ margin-left: -60px;
   grid-row: 2/3;
   background-color: #fff;
   border-radius: 9px;
-    width: 450px;
+    width: 460px;
     padding: 25px;
     margin-top: 170px;
 margin-left: -20px;
-    height: 285px;
+    height: 295px;
 }
 
 .label1 > h2 {
@@ -258,7 +258,7 @@ margin-top: 0px;
 margin-left: 20px;
 display: block;
 margin: 0 auto;
-height: 390px;
+height: 400px;
 margin-top: -110px;
   padding: 28px;
   justify-content: center;
@@ -281,4 +281,8 @@ margin-top: -110px;
 A {
   text-decoration: none;
 color: black;
+}
+
+.navbar {
+  display: none;
 }

@@ -2,11 +2,14 @@ import React from 'react';
 import clsx from 'clsx';
 import './nft.css';
 import styles from './index.module.css';
+import Layout from '@theme/Layout';
 
 function nft() {
   return (
-
+    <Layout
+      title={`NFT`}>
    <header>
+
 <div className="background_header">
 <div className="wrapper">
 
@@ -20,7 +23,7 @@ function nft() {
 <h2>What is Aneta Angels? </h2>
 <div className="label_2">
 Aneta Angels is a Cardano and Ergo based NFT project focused on providing utility while paying homage to the various peoples, cultures, and passions that make up the anetaBTC community!
-<p />Holders of Aneta Angel NFTs will enjoy a 10% bonus on all cNETA rewards from NETA1 and NETA2 stake pools.
+<p />Holders of Aneta Angel NFTs will enjoy at least a 10% bonus on cNETA rewards earned from staking with NETA1 and NETA2.
  To learn more, check out our <b><u><a href="https://medium.com/@anetaBTC">medium</a></u></b>.
 </div>
     </div>
@@ -60,7 +63,7 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 </div>
 </div>
 </header>
-
+</Layout>
   );
 }
 
