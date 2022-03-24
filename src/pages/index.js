@@ -33,11 +33,13 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 <div className="mint">
 <div className="information"><br />
 <font className="font1">Minting is now live for whitelisted wallets!</font><br /><br />
-
-<button> Mint 1 Aneta Angel</button>
+<a target="_blank" href="https://payment.nft-maker.io/?p=63f84698227740f380b10b12c5ef0b12&c=1">
+<button > Mint 1 Aneta Angel</button>
+</a>
 <br />
 </div>
 </div>
+
 
    <div className="background_main">
    <br /> <h2><b>Gallery</b></h2><p /> <p /><br />

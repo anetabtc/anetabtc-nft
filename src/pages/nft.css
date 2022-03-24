@@ -307,7 +307,7 @@ color: black;
 }
 
 
-.information > button {
+.information > a> button {
   width: 170px;
   height: 40px;
   background-color: #ffffff;
