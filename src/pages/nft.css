@@ -303,7 +303,7 @@ color: black;
 
 .information > .font1 {
 font-size: 17px;
-
+color: black;
 }
 
 
@@ -316,9 +316,5 @@ font-size: 17px;
   font-weight: bold;
   border-color: #e2dfd4;
   cursor: pointer;
-}
-
-
-.information > .font2 {
-font-size: 13px;
+  color: black;
 }
