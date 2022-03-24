@@ -143,6 +143,8 @@ padding: 0 max(0rem, calc(50% - 512px));
 
 @media (max-width: 668px) {
 
+.mint {
+}
 
   .background_header {
 
@@ -227,13 +229,13 @@ margin: 0 auto;
 
   .logo_block {
     grid-column: 1/1;
-    width: 350px;
-    height: 350px;
+    width: 297.5px;
+    height: 297.5px;
     align-items: center;
     justify-content: center;
 display: block;
 margin: 0 auto;
-margin-top: 0px;
+margin-top: -20px;
 
   }
 
@@ -285,4 +287,38 @@ color: black;
 
 .navbar {
   display: none;
+}
+
+
+.mint {
+  width: 100%;
+  height: 150px;
+  background-color: #fed38a;
+}
+
+.information {
+  text-align: center;
+
+}
+
+.information > .font1 {
+font-size: 17px;
+
+}
+
+
+.information > button {
+  width: 170px;
+  height: 40px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: solid 1px;
+  font-weight: bold;
+  border-color: #e2dfd4;
+  cursor: pointer;
+}
+
+
+.information > .font2 {
+font-size: 13px;
 }
