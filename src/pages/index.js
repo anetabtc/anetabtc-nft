@@ -32,16 +32,16 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 </div>
 <div className="mint">
 <div className="information"><br />
-<font className="font1">Information on public minting will be released soon.</font><br /><br />
-<a target="_blank" href="">
+<font className="font1">Public mint is now live!</font><br /><br />
+<a target="_blank" href="https://payment.nft-maker.io/?p=63f84698227740f380b10b12c5ef0b12&c=1">
 <button className="btn1"> Mint 1 Aneta Angel</button>
 </a>
 
-<a target="_blank" href="">
+<a target="_blank" href="https://payment.nft-maker.io/?p=63f84698227740f380b10b12c5ef0b12&c=2">
 <button className="btn2"> Mint 2 Aneta Angels</button>
 </a>
 
-<a target="_blank" href="">
+<a target="_blank" href="https://payment.nft-maker.io/?p=63f84698227740f380b10b12c5ef0b12&c=3">
 <button className="btn3"> Mint 3 Aneta Angels</button>
 </a>
 <br />
