@@ -141,10 +141,101 @@ padding: 0 max(0rem, calc(50% - 512px));
 
 
 
-@media (max-width: 668px) {
+
+A {
+  text-decoration: none;
+color: black;
+}
+
+.navbar {
+  display: none;
+}
+
 
 .mint {
+  width: 100%;
+  height: 150px;
+  background-color: #fed38a;
 }
+
+.information {
+  text-align: center;
+
+}
+
+.information > .font1 {
+font-size: 17px;
+color: black;
+}
+
+
+.information > a> button {
+  width: 170px;
+  height: 40px;
+  border-radius: 8px;
+  border: solid 1px;
+  font-weight: bold;
+  border-color: #ffffff;
+  cursor: pointer;
+  color: black;
+  margin-top: 0px;
+}
+
+.btn1 {
+  margin-right: 50px;
+  background-color: #ffffff;
+}
+
+.btn2 {
+  background-color: #bbd4f2;
+}
+
+.btn3 {
+  margin-left: 50px;
+  background-color: #cabef9;
+}
+
+
+
+@media (max-width: 668px) {
+
+
+  .mint {
+    height: 300px;
+    background-color: #fed38a;
+display: grid;
+grid-column: 1fr;
+    text-align: center;
+
+  }
+
+  .information > a > button {
+    margin-top: 25px;
+  }
+
+  .btn1 {
+
+    background-color: #ffffff;
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .btn2 {
+    background-color: #bbd4f2;
+    display: block;
+    margin: 0px auto;
+
+
+
+  }
+
+  .btn3 {
+    background-color: #cabef9;
+    display: block;
+    margin: 0 auto;
+
+  }
 
   .background_header {
 
@@ -278,43 +369,9 @@ margin-top: -110px;
   .background_main > p {
 
   }
-}
-
-A {
-  text-decoration: none;
-color: black;
-}
-
-.navbar {
-  display: none;
-}
 
 
-.mint {
-  width: 100%;
-  height: 150px;
-  background-color: #fed38a;
-}
-
-.information {
-  text-align: center;
-
-}
-
-.information > .font1 {
-font-size: 17px;
-color: black;
-}
 
 
-.information > a> button {
-  width: 170px;
-  height: 40px;
-  background-color: #ffffff;
-  border-radius: 8px;
-  border: solid 1px;
-  font-weight: bold;
-  border-color: #e2dfd4;
-  cursor: pointer;
-  color: black;
+
 }
