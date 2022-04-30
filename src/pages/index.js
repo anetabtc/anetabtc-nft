@@ -23,19 +23,14 @@ function nft() {
 <h2>What is Aneta Angels? </h2>
 <div className="label_2">
 Aneta Angels is a Cardano and Ergo based NFT project focused on providing utility while paying homage to the various peoples, cultures, and passions that make up the anetaBTC community!
-<p />Holders of Aneta Angel NFTs will enjoy at least a 10% bonus on cNETA rewards earned from staking with NETA1 and NETA2.
+<p />Holders of Ergo Aneta Angel NFTs will enjoy periodic airdrops of NETA tokens over the next 6 months.
  To learn more, check out our <b><u><a href="https://medium.com/@anetaBTC">medium</a></u></b>.
 </div>
     </div>
 
 </div>
 </div>
-<div className="mint">
-<div className="information"><br />
-<font className="font1">Our Aneta Angels NFT collection is now sold out, thank you to our community for participating.</font><br />
-<br />
-</div>
-</div>
+
 
 
    <div className="background_main">
@@ -59,11 +54,11 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 
 <br />  <h2><b>Our Team</b></h2><p /> <p /><br />
 <div className="block_challenge1">
-<div className="list1"> <a href="https://twitter.com/anetaBTC" class="active" target="_blank"><img src={'nft/part1.png'} /></a></div>
+<div className="list1"> <a href="https://anetabtc.io/" class="active" target="_blank"><img src={'nft/part1.png'} /></a></div>
 
-<div className="list1"> <a href="https://twitter.com/Cypherkicks" class="active" target="_blank"> <img src={'nft/part2.png'} /></a></div>
+<div className="list1"> <a href="https://www.cypherkicks.com/" class="active" target="_blank"> <img src={'nft/part2.png'} /></a></div>
 
-<div className="list1 fx">  <a href="https://twitter.com/nftmakerio" class="active" target="_blank"><img src={'nft/part3.png'} /></a></div>
+<div className="list1 fx">  <a href="https://www.skyharbor.io/marketplace" class="active" target="_blank"><img src={'nft/part3.png'} /></a></div>
 
 
 </div>

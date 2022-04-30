@@ -4,7 +4,7 @@ main > h2{
 
 .background_header {
 background: url(/nft/background1.png);
-  height: 820px;
+  height: 1020px;
   background-repeat: no-repeat;
  -webkit-background-size: cover;
          -moz-background-size: cover;
@@ -54,7 +54,7 @@ margin: 0 auto;
   width: 480px;
   height: 480px;
   margin-left: 20px;
-  margin-top: 80px;
+  margin-top: 180px;
   justify-content: center;
 align-items: center;
 }
@@ -62,10 +62,10 @@ align-items: center;
 .angel_block {
 grid-column: 1/2;
 grid-row: 2/3;
-width: 320px;
-margin-top: 53px;
-height: 260px;
-margin-left: -60px;
+width: 450px;
+margin-top: 395px;
+height: 350px;
+margin-left: -150px;
 }
 
 .label1 {
@@ -75,7 +75,7 @@ margin-left: -60px;
   border-radius: 9px;
     width: 460px;
     padding: 35px;
-    margin-top: 170px;
+    margin-top: 550px;
 margin-left: -20px;
     height: 295px;
 }
@@ -130,7 +130,7 @@ padding: 0 max(0rem, calc(50% - 512px));
 }
 
 .fx {
-  margin-top: -10px;
+margin-top: 5px;
 }
 
 .background_footer > h2 {
@@ -336,8 +336,8 @@ margin-top: -20px;
 
   grid-column: 1/1;
   grid-row: 2;
-  width: 220px;
-  height: 350px;
+  width: 290px;
+  height: 380px;
   margin-left: 400px;
   margin-top: 150px;
   margin:0 auto;
