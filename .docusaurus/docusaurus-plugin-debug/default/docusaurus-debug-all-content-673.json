@@ -530,8 +530,13 @@
       },
       {
         "type": "jsx",
-        "permalink": "/clipboard",
-        "source": "@site/src/pages/clipboard.js"
+        "permalink": "/Popup1",
+        "source": "@site/src/pages/Popup1.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/Popup2",
+        "source": "@site/src/pages/Popup2.js"
       },
       {
         "type": "jsx",
