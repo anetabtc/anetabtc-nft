@@ -525,6 +525,16 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/Popup",
+        "source": "@site/src/pages/Popup.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/clipboard",
+        "source": "@site/src/pages/clipboard.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
       }

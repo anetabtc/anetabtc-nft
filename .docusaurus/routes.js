@@ -94,6 +94,16 @@ export default [
     exact: true
   },
   {
+    path: '/clipboard',
+    component: ComponentCreator('/clipboard','d9e'),
+    exact: true
+  },
+  {
+    path: '/Popup',
+    component: ComponentCreator('/Popup','2a5'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs','380'),
     routes: [
