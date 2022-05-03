@@ -123,15 +123,15 @@
   },
   "/Popup-2a5": {
     "component": "component---site-src-pages-popup-js-5-f-8-806",
-    "config": "config---popup-5-e-9-acd"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
   "/Popup1-a75": {
     "component": "component---site-src-pages-popup-1-jsb-30-eb3",
-    "config": "config---popup-5-e-9-acd"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
   "/Popup2-108": {
     "component": "component---site-src-pages-popup-2-js-987-2b9",
-    "config": "config---popup-5-e-9-acd"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
   "/docs-380": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -175,6 +175,6 @@
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---popup-5-e-9-acd"
+    "config": "config---index-20-copy-5-e-9-4f5"
   }
 }
