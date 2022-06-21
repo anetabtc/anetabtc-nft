@@ -55,8 +55,32 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 </div>
 <div className="mint">
 <div className="information"><br />
-<font className="font1">Our Aneta Angels NFT collection is now sold out, thank you to our community for participating.</font><br />
-<p />
+
+
+<font className="font1"><h4>The remaining 97 Aneta Angels on Ergo will be available starting Friday, June 24th around 1:00 PM UTC.</h4></font><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 </div>
