@@ -55,32 +55,172 @@ Aneta Angels is a Cardano and Ergo based NFT project focused on providing utilit
 </div>
 <div className="mint">
 <div className="information"><br />
-
-
-<font className="font1"><h4>The remaining 97 Aneta Angels on Ergo will be available starting Friday, June 24th around 1:00 PM UTC.</h4></font><br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<font className="font1">Public Mint is Now Live!</font><br />
+<p />
+<div className="lis">
+<div>
+    <input
+      type="button"
+      className="btn1"
+      value="Mint 1 Aneta Angel"
+      onClick={togglePopup0}
+    />
+    {isOpen && <Popup content={<>
+<div className="final">
+<img src={'nft/warriorangel.png'} className="war"/>
+<img src={'nft/qr.png'} className="qr"/>
+<div className="inf1"> <div className="br2">ADDRESS <br/> <b>9goaw3nWhZC788ArqjzoU9B3QgLup7UwqKSsPwJPdx9RsugVZxy</b>
 
 
 
 
+      <CopyToClipboard text='9goaw3nWhZC788ArqjzoU9B3QgLup7UwqKSsPwJPdx9RsugVZxy'
+        onCopy={() => setCopied(true)}
+      >
+        <img src={'nft/Vector.png'} className="copt" title="Copy address"/>
+      </CopyToClipboard>
 
 
 
 
+ </div></div>
+<div className="inf2"> <div className="br3">Payment Amount: <br /> <b>22 ERG</b></div></div>
+<div className="inf3"> <div className="br4"><b>Purchasing 1 Aneta Angel</b></div></div>
+<div className="inf4">
+<div className="br1">
+<b>Transaction Instructions</b><br/><br/>
+
+<ol>
+<li>Send the Exact displayed ERG amount to the wallet address provided.<br/> Hint: use the copy button!</li><p/>
+<li>Wait about 10 minutes for your Aneta Angels NFT to arrive in the Ergo wallet from which you sent the payment.</li><p/>
+<li>Incorrect payment amounts will not recieve an Aneta Angels NFT and will be refunded their payment minus any transaction fees.</li>
+</ol>
+</div>
+</div>
+</div>
+
+      </>}
+      handleClose={togglePopup0}
+    />}
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div>
+      <input
+        type="button"
+        className="btn2"
+        value="Mint 1 Aneta Angel"
+        onClick={togglePopup1}
+      />
+      {isOpen1 && <Popup1 content={<>
+  <div className="final">
+  <img src={'nft/warriorangel.png'} className="war"/>
+  <img src={'nft/qr.png'} className="qr"/>
+  <div className="inf1"> <div className="br2">ADDRESS <br/> <b>9goaw3nWhZC788ArqjzoU9B3QgLup7UwqKSsPwJPdx9RsugVZxy</b>
+
+
+
+
+        <CopyToClipboard text='9goaw3nWhZC788ArqjzoU9B3QgLup7UwqKSsPwJPdx9RsugVZxy'
+          onCopy={() => setCopied(true)}
+        >
+          <img src={'nft/Vector.png'} className="copt" title="Copy address"/>
+        </CopyToClipboard>
+
+
+
+
+   </div></div>
+  <div className="inf2"> <div className="br3">Payment Amount: <br /> <b>22 ERG</b></div></div>
+  <div className="inf3"> <div className="br4"><b>Purchasing 1 Aneta Angel</b></div></div>
+  <div className="inf4">
+  <div className="br1">
+  <b>Transaction Instructions</b><br/><br/>
+
+  <ol>
+  <li>Send the Exact displayed ERG amount to the wallet address provided.<br/> Hint: use the copy button!</li><p/>
+  <li>Wait about 10 minutes for your Aneta Angels NFT to arrive in the Ergo wallet from which you sent the payment.</li><p/>
+  <li>Incorrect payment amounts will not recieve an Aneta Angels NFT and will be refunded their payment minus any transaction fees.</li>
+  </ol>
+  </div>
+  </div>
+  </div>
+
+        </>}
+        handleClose={togglePopup1}
+      />}
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div>
+        <input
+          type="button"
+          className="btn3"
+          value="Mint 3 Aneta Angels"
+          onClick={togglePopup2}
+        />
+        {isOpen2 && <Popup2 content={<>
+    <div className="final">
+    <img src={'nft/warriorangel.png'} className="war"/>
+    <img src={'nft/qr.png'} className="qr"/>
+    <div className="inf1"> <div className="br2">ADDRESS <br/> <b>9goaw3nWhZC788ArqjzoU9B3QgLup7UwqKSsPwJPdx9RsugVZxy</b>
+
+
+
+
+          <CopyToClipboard text='9goaw3nWhZC788ArqjzoU9B3QgLup7UwqKSsPwJPdx9RsugVZxy'
+            onCopy={() => setCopied(true)}
+          >
+            <img src={'nft/Vector.png'} className="copt" title="Copy address"/>
+          </CopyToClipboard>
+
+
+
+
+     </div></div>
+    <div className="inf2"> <div className="br3">Payment Amount: <br /> <b>66 ERG</b></div></div>
+    <div className="inf3"> <div className="br4"><b>Purchasing 3 Aneta Angels</b></div></div>
+    <div className="inf4">
+    <div className="br1">
+    <b>Transaction Instructions</b><br/><br/>
+
+    <ol>
+    <li>Send the Exact displayed ERG amount to the wallet address provided.<br/> Hint: use the copy button!</li><p/>
+    <li>Wait about 10 minutes for your Aneta Angels NFT to arrive in the Ergo wallet from which you sent the payment.</li><p/>
+    <li>Incorrect payment amounts will not recieve an Aneta Angels NFT and will be refunded their payment minus any transaction fees.</li>
+    </ol>
+    </div>
+    </div>
+    </div>
+
+          </>}
+          handleClose={togglePopup2}
+        />}
+      </div>
+      </div>
 </div>
 
 </div>
